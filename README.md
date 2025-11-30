@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @misaka10032w
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 乁( ◔ ౪◔)ㄏ
 
-<!---
-misaka10032w/misaka10032w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 动态量子递归悖论
+```text
+          在洋葱的第七层
+   我遇见了昨天的我
+       他正在调试一段不存在的代码
+         我们互相提交了彼此
+```
+
+## 蜂巢思维矩阵
+
+- 🔥 **热力学代码**：在绝对零度下自发编译
+- 🌀 **递归悖论**：`while(!true) { achieveEnlightenment(); }`
+- 🌙 **月光接口**：只在夜晚显示的API
+- 📦 **虚无依赖**：`npm install @void/core`
+
+## 熵增协奏曲
+
+```python
+def 理解宇宙():
+    左手 = lambda x: x(x)
+    右手 = lambda y: not y(y)
+    return 左手(右手) ** 无限
+```
+
+# 多维度贡献图
+| 平行宇宙 | 提交记录 | 情绪波动 |
+| -------- | -------- | -------- |
+| α-7 | fix(timeline): 修复因果悖论 | 🌈 |
+| β-12 | feat(gravity): 反重力模块 | 🍕 |
+| Ω-∞ | chore(reality): 优化现实渲染 | 🎭 |
+
+# 非确定性技能树
+```text
+C↑ 
+O↓  Haskell -> 禅宗 -> 炒饭艺术 
+B↓ 
+O↓  量子烘焙 -> 时间折叠 -> [数据删除] 
+L↓
+```
+
+# 薛定谔的联系方式
+- 状态：既在线又离线
+- 响应时间：观测时立即响应/永远不响应
+- 邮箱：root@localhost
+
+### 当你在凝视README时，README也在凝视你
